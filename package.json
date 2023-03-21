@@ -8,7 +8,7 @@
     "build:client": "npx webpack build --config ./webpack.client.js --watch",
     "build:server": "npx webpack build --config ./webpack.server.js --watch"
   },
-  "author": "Isaiah",
+  "author": "Isiah",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.19.1",
